@@ -18,13 +18,13 @@ const perguntasLeisDeNewton = [
       correta: 0
     },
     {
-      pergunta: "O que a terceira lei de Newton afirma?",
+      pergunta: "A força gravitacional entre dois corpos depende de quais fatores?",
       respostas: [
-        "Para cada ação, há uma reação de igual magnitude, mas em direção oposta.",
-        "A força resultante sobre um objeto é igual à massa do objeto multiplicada pela aceleração.",
-        "Um objeto em repouso permanece em repouso e um objeto em movimento permanece em movimento com velocidade constante, a menos que uma força externa atue sobre ele."
+        "Da distância entre dois corpos.",
+        "Da massa dos corpos e o tamanho deles.",
+        "Da massa dos corpos e da distância entre eles."
       ],
-      correta: 0
+      correta: 2
     },
     {
       pergunta: "De acordo com a segunda lei de Newton, qual é a relação entre força, massa e aceleração?",
@@ -63,13 +63,13 @@ const perguntasLeisDeNewton = [
       correta: 2
     },
     {
-      pergunta: "Quando um carro freia bruscamente, qual lei de Newton é mais diretamente aplicada?",
+      pergunta: "Segundo a lei da gravitação universal o que acontece com a força gravitacional se o corpo se afasta duas vezes do outro?",
       respostas: [
-        "Primeira Lei",
-        "Segunda Lei",
-        "Terceira Lei"
+        "A força aumenta em duas vezes",
+        "A força diminui em duas vezes",
+        "A força diminui em quatro vezes"
       ],
-      correta: 1
+      correta: 2
     },
     {
       pergunta: "O que representa a Lei da Ação e Reação de Newton?",
@@ -81,13 +81,13 @@ const perguntasLeisDeNewton = [
       correta: 1
     },
     {
-      pergunta: "Em um salto de paraquedas, qual lei de Newton é evidenciada quando o paraquedas se abre, causando a desaceleração do corpo em queda?",
+      pergunta: "Qual é a unidade de medida da força no Sistema Internacional (SI)?",
       respostas: [
-        "Primeira Lei",
-        "Segunda Lei",
-        "Terceira Lei"
+        "Newton (N)",
+        "Joule (J)",
+        "Pascal (Pa)"
       ],
-      correta: 1
+      correta: 0
     }
   ];
   
